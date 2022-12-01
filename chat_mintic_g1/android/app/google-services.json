@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896183001464",
+    "project_id": "reto3-chat-8b850",
+    "storage_bucket": "reto3-chat-8b850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896183001464:android:d35aa8e50da82123ebe88d",
+        "android_client_info": {
+          "package_name": "com.example.chat_mintic_g1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896183001464-4gpvk9pr12kgoq9rau9nklg40sh3ugpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcB_AwiqYnrElKwR3VxWnA1i13XYkybds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896183001464-4gpvk9pr12kgoq9rau9nklg40sh3ugpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
